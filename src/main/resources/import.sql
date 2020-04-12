@@ -1,0 +1,1 @@
+INSERT user(id, create_time, login_name, password, salt, update_time, user_name)values ('1','2020-03-28 09:12:31','admin','+rnAzFhj7Xcia6idWzg4Ew==','CFYl1n8zaK','2020-03-28 09:12:31','admin');
